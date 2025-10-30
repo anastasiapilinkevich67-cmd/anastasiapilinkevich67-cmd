@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Привет, я Анастасия!
 
-<!--
-**anastasiapilinkevich67-cmd/anastasiapilinkevich67-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Студентка | Исследователь в области Data Science | Энтузиаст математики и машинного обучения**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Обо мне
+
+Приветствую! Меня зовут Анастасия, и я увлечена миром данных, математики и всего, что связано с превращением сложных теорий в работающие алгоритмы. Мой путь в IT начался с любви к решению нестандартных задач, и сейчас я активно развиваюсь в направлениях Machine Learning и анализа данных.
+
+Мои ключевые интересы:
+- **Машинное обучение и Data Science**
+- **Прикладная математика и статистика**
+- **Научные исследования и визуализация данных**
+
+### 🛠️ Мой технологический стек
+
+**Языки программирования и технологии:**
+`Python` `NumPy` 
+
+**Математические дисциплины:**
+`Математический анализ` `Линейная алгебра` `Теория вероятностей` `Статистика`
+
+### 📂 Избранный проект
+
+Здесь вы можете найти один из моих ключевых проектов, где я применила свои знания на практике:
+
+- **[🧮 Calculus Tool](https://github.com/anastasiapilinkevich67-cmd/calculus_tool)** — Инструмент для вычисления и визуализации математических функций. Проект включает в себя работу с производными, построение графиков и анализ функций, что отлично демонстрирует связь программирования и высшей математики.
+
+### 📫 Как со мной связаться
+
+[![GitHub](https://img.shields.io/badge/GitHub-профиль-black?style=for-the-badge&logo=github)](https://github.com/anastasiapilinkevich67-cmd)
+[![Email](https://img.shields.io/badge/Email-написать_мне-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+> *«Математика — это язык, на котором написана книга природы.» — Галилео Галилей*
